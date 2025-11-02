@@ -1,0 +1,5 @@
+[general]
+import = ["~/.cache/wal/colors-alacritty.toml"]
+
+[font]
+size = 10
